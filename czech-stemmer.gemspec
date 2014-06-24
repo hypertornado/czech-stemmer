@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = "czech-stemmer"
-  s.version = ""
+  s.version = "0.0.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Ondrej Odchazel"]
@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
     "LICENSE.txt",
     "README.markdown",
     "Rakefile",
+    "VERSION",
     "czech-stemmer.gemspec",
     "lib/czech-stemmer.rb",
     "test/CzechStemmer.java",
